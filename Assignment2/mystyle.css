@@ -1,6 +1,7 @@
 
 BODY {
-	background: lightblue url("MIT1.jpg") no-repeat fixed;
+	background: lightblue url("MIT.jpg") no-repeat fixed;
+	background-size:100% 100%;
 	text-align: center; }
 
 
